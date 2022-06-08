@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\task\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.exe
+C:\Users\user\Desktop\task\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.deps.json
+C:\Users\user\Desktop\task\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.runtimeconfig.json
+C:\Users\user\Desktop\task\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.runtimeconfig.dev.json
+C:\Users\user\Desktop\task\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.dll
+C:\Users\user\Desktop\task\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.pdb
+C:\Users\user\Desktop\task\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\task\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\task\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.AssemblyInfo.cs
+C:\Users\user\Desktop\task\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\task\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.dll
+C:\Users\user\Desktop\task\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.pdb
+C:\Users\user\Desktop\task\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.genruntimeconfig.cache
